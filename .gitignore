@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 运行产物
+logs/
+data/data.json
+
+# 开发期临时件
+assets/_debug/
+tools/_patch_*.py
+tools/_dump_*.py
+tools/run.log
+
+# 打包产物
+peektodo-src.zip

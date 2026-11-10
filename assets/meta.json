@@ -1,0 +1,70 @@
+{
+  "crop": [
+    4,
+    0,
+    1210,
+    706
+  ],
+  "scale": 0.21890547263681592,
+  "sprite": [
+    264,
+    155
+  ],
+  "expressions": [
+    {
+      "id": "calm",
+      "file": "pair_calm.png"
+    },
+    {
+      "id": "happy",
+      "file": "pair_happy.png"
+    },
+    {
+      "id": "worry",
+      "file": "pair_worry.png"
+    }
+  ],
+  "no_blink": {
+    "r": [
+      "worry"
+    ]
+  },
+  "eyes": [
+    {
+      "owner": "l",
+      "box": [
+        30,
+        72,
+        34,
+        24
+      ]
+    },
+    {
+      "owner": "l",
+      "box": [
+        60,
+        72,
+        35,
+        24
+      ]
+    },
+    {
+      "owner": "r",
+      "box": [
+        166,
+        72,
+        29,
+        23
+      ]
+    },
+    {
+      "owner": "r",
+      "box": [
+        195,
+        72,
+        30,
+        23
+      ]
+    }
+  ]
+}
